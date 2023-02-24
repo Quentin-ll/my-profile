@@ -68,14 +68,14 @@ a {
 }
 
 .btn-blue {
-	backround-color:blue;
-	color:whitesmoke;
+	backround-color:#6B72E1;
+	color: whitesmoke;
 	padding:15px 20px;
 	border-radius:4px;
 }
 .btn-blue:hover {
-	backround-color: black;
-	color: white;
+	backround-color: blue;
+	color: blue;
 }
 
 .list-inline {
